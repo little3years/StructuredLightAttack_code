@@ -13,3 +13,7 @@ python Test_CW
 2. Generate physical adversarial point cloud：  
 cd TriangularStereoModel/code  
 matlab main.m  
+
+
+reference
+[1] https://github.com/SHU-FLYMAN/3dStructureLight.git
